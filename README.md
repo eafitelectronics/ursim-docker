@@ -36,7 +36,7 @@ Simulador de robots de Universal Robots UR e-series. Inspirado en [Universal Rob
 5. Abrir una terminal y navegar a la carpeta donde se clonó el repositorio, ejecutar el siguiente comando
 
    ```bash
-   docker-compose -p ursim up --build -d
+   docker compose -p ursim up --build -d
    ```
 
 6. Abrir un navegador y navegar a la dirección [http://localhost:6080/vnc.html?host=localhost&port=6080](http://localhost:6080/vnc.html?host=localhost&port=6080) para acceder al simulador
