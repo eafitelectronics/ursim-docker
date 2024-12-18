@@ -11,7 +11,7 @@ Simulador de robots de Universal Robots UR e-series. Inspirado en [Universal Rob
 
 1. Clonar este repositorio de git
 
-2. Crear una carpeta dentro de la carpeta de usuario con el nombre de .ursim
+2. Crear una carpeta dentro de la carpeta de usuario con el nombre de `📂.ursim`
 
    ```bash
    mkdir .ursim
