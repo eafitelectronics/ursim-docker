@@ -43,4 +43,4 @@ Simulador de robots de Universal Robots UR e-series. Inspirado en [Universal Rob
 
 7. (Opcional) Para instalar el external control URCap copiar el archivo `external_control.jar` a la carpeta `📂urcaps` creada en el paso 3
 
-8. (Opcional) Para instalar el gripper de Robotiq copiar el archivo `Robotiq_Grippers-3.17.0.105337.urcap` a la carpeta `programs` creada en el paso 3 y proceder a instalarlo desde el PolyScope en el menú hamburguesa, Settings, System, URCaps y darle en el +. Luego seleccionar el archivo `Robotiq_Grippers-3.17.0.105337.urcap` y seguir las instrucciones.
+8. (Opcional) Para instalar el gripper de Robotiq copiar el archivo `Robotiq_Grippers-3.17.0.105337.urcap` a la carpeta `📂programs` creada en el paso 3 y proceder a instalarlo desde el PolyScope en el menú hamburguesa, Settings, System, URCaps y darle en el +. Luego seleccionar el archivo `Robotiq_Grippers-3.17.0.105337.urcap` y seguir las instrucciones.
