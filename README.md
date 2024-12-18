@@ -39,7 +39,7 @@ Simulador de robots de Universal Robots UR e-series. Inspirado en [Universal Rob
    docker-compose -p ursim up --build -d
    ```
 
-6. Abrir un navegador y navegar a la dirección `http://http://localhost:6080/vnc.html?host=localhost&port=6080` para acceder al simulador
+6. Abrir un navegador y navegar a la dirección [http://localhost:6080/vnc.html?host=localhost&port=6080](http://localhost:6080/vnc.html?host=localhost&port=6080) para acceder al simulador
 
 7. (Opcional) Para instalar el external control URCap copiar el archivo `external_control.jar` a la carpeta `📂urcaps` creada en el paso 3
 
